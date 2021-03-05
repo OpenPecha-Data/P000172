@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000172
+initial_creation_type: ebook
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   authors:
   - མཛད་པ་པོ། ཡོངས་འཛིན་རྣམ་རྒྱལ་གྲགས་པ།
   - མཛད་པ་པོ། ཤཱཀྱ་མཆོག་ལྡན་དྲི་མེད་ལེགས་པའི་བློ་གྲོས།
-  sku: RDI-SS-12
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-SS-12
 web_metadata:
   title:
     en: “The Lapis Lazuli Stairway”:The Entry to the Ocean of Texts on Reasoning
